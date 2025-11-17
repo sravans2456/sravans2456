@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sravans2456
+- 👋 Hi, I’m @sravan2456
 - 👀 I’m interested in web development & Ethical hacking
 - 🌱 I’m currently learning ethical hacking
 - ❤️Intrested to do internships to gain experience
